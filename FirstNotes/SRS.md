@@ -124,3 +124,4 @@ Develop a system that analyzes an SRS document to:
 ---
 
 If you're building this, would you want it as a **standalone tool**, an **integrated plugin** for existing document editors or platforms (like MS Word, JIRA), or as a **cloud service**? That decision will heavily shape architecture and complexity. I can sketch out the system architecture or implementation plan depending on your direction.
+
