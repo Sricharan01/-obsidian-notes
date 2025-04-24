@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "34becaa29f2bfe17",
+  "active": "5be8692ecf7838b2",
   "lastOpenFiles": [
     "OneNote/Static 1/Static/Culture - NCERT.md",
     "Exported image 20250424103841-3.jpeg",
