@@ -1,4 +1,4 @@
-2. **Class 6**
+explain 2. **Class 6**
     
     1. Celestial bodies - what are they? Celestial bodies made up of gases with own light and heat are stars. Celestial bodies lit by light of other stars are planets. We get out light and heat from the sun.
     2. Inner planets made up of rocks - till Mars /asteroid belt. Jupiter to Neptune - huge planets made up of gases and liquids. **Jupiter has 69 moons (highest)**
